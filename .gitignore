@@ -12,6 +12,7 @@
 
 # logs
 *.log
+error_log
 
 # temp files
 /temp/
@@ -22,6 +23,7 @@
 *.swp
 
 # Apache stuff
+.wekll-known/
 .htaccess
 .htpasswd
 cgi-bin/
