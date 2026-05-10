@@ -26,3 +26,7 @@
 .htpasswd
 cgi-bin/
 htusers
+
+# deployment dashboard specific
+/_deploy/
+/public/_deploy/
