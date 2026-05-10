@@ -1,0 +1,28 @@
+# vendor code
+/vendor/
+/node_modules/
+
+# compiled assets
+/public/css/
+/public/js/
+/public/mix-manifest.json
+
+# environment variables
+.env
+
+# logs
+*.log
+
+# temp files
+/temp/
+*~
+~*
+*.tmp
+*.bak
+*.swp
+
+# Apache stuff
+.htaccess
+.htpasswd
+cgi-bin/
+htusers
